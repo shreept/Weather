@@ -1,0 +1,19 @@
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+    background-color: #1692b9;
+    padding: 5px 10px ;
+}
+
+img {
+    vertical-align: middle;
+    height: 99px;
+    width: 99px;
+}
+
+p{
+    position: relative;
+    left: 278px;
+    color: #0f7342;
+}
